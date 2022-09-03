@@ -1,0 +1,32 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    width: 100%;
+    margin-top: 0px;
+    height: 80px;
+    font-size: x-large;
+}
+
+#LN
+{
+    margin-top: 8px;
+    font-size: small;
+}
+
+#LO
+{
+    font-size: larger;
+    background-color: aqua;
+}
+
+canvas
+{
+    border: 15px dashed orange;
+    border-radius: 50px;
+    box-shadow: 5px 10px 3px red;
+}
